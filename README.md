@@ -1,1 +1,1 @@
-# SekutorAndroidApp
+# Sekutor Android App
